@@ -1,19 +1,19 @@
 <img src="/resource/header.png" alt="Mahesh Ravariya's Cover Photo" width="1200"/>
 
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
-![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter%2Fmgravariya)
+[![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https://twitter.com/mgravariya)](https://twitter.com/mgravariya)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://in.linkedin.com/in/mahesh-ravariya)
 [![Instagram](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Instagram&logoColor=purple&link=https://www.instagram.com/mravariya/)](https://www.instagram.com/mravariya/)
 [![Facebook](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Facebook&logoColor=blue&link=https://www.facebook.com/mravariya)](https://www.facebook.com/mahesh.g.ravariya)
 [![Medium](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@mravariya)](https://medium.com/@mravariya)
 [![Telegram](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Telegram&logoColor=informational&link=https://telegram.org/@mravariya)](https://telegram.org/@mravariya)
-[![Website](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Safari&logoColor=black&link=http://mahesh.work)](http://www.mahesh.work/)
+[![Website](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Safari&logoColor=black&link=http://mahesh.work)](http://www.mahesh.works/)
 ![](https://visitor-badge.glitch.me/badge?page_id=mravariya.mravariya)
 
 ## HELLO WORLD 👋
 
 I'm [Mahesh Ravariya](https://www.github.com/mravariya) & I am MERN Stack developer who is currently learning Data Science and helping others to learn MERN stack.
-I have been learning and teaching ```Computer Science``` from last 2+ years. I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
+I have been learning and teaching ```Computer Science``` from last 3+ years. I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
 
 ###### Contact Me : [Email](mailto:mravariya01@gmail.com) | [Discussions](https://github.com/mravariya/mravariya/discussions/1) | [Twitter](https://twitter.com/mgravariya) | [Telegram](https://telegram.org/@mravariya)
 
