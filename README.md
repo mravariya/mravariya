@@ -84,6 +84,4 @@ Other                   ████████████░░░░░░�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mravariya&langs_count=8&layout=compact)](https://github.com/mravariya/devDocs)
 
-[![Mahesh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mravariya)](https://github.com/mravariya/devDocs)
-
 <img src="/resource/codeFooter.png" alt="Footer" width="1200"/>
