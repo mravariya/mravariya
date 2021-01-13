@@ -71,19 +71,6 @@ Other                   ████████████░░░░░░�
 ```
 
 <details>
-  <summary> FAQ </summary>
-
-- 🔭 I’m currently working on ................ <a href="https://github.com/mravariya/portfolio">Portfolio</a><br/>
-- 🌱 I’m currently learning ...................... <a href="https://github.com/DataScience">Data Science</a><br/>
-- 👯 I’m looking to collaborate on ........ <a href="https://github.com/TensorFlow">TensorFlow </a><br/>
-- 🤔 I’m looking for help with ................ <a href="https://github.com/ml5js">ml5.js </a><br/>
-- 💬 Ask me about .................................... <a href=#>Python, Machine Learning, Artificial Intelligence and Data Science </a><br/>
-- 📫 How to reach me: ............................. Discussions : <a href="https://github.com/mravariya/mravariya/discussions/1"> Click Here </a> Email : <a href = "mailto:mravariya01@gmail.com"> Click Here </a> | Twitter : <a href = "https://twitter.com/mgravariya"> MGRavariya </a> | Telegram : <a href = "https://telegram.org/@mravariya"> MRavariya </a><br/>
-- 😄 Pronouns: ........................................... He / Him ♂️ <br/>
-- ⚡ Fun fact: .............................................. I mostly listen to Carnatic Classical music when coding.<br/>
-</details>
-
-<details>
   <summary> Find me Online </summary>
   <a href="https://dev.to/mravariya"><img align="auto" src="resource/Icons/dev.svg" alt="Find me on Dev.to" width="20" margin="5"/></a> <a href="https://dev.to/mravariya">MRavariya</a><br/>
   <a href="https://github.com/mravariya"><img align="auto" src="resource/Icons/github.svg" alt="Find me on GitHub" width="20" margin="5"/></a> <a href="https://github.com/mravariya">MRavariya</a><br/>
@@ -97,6 +84,18 @@ Other                   ████████████░░░░░░�
   <a href="https://mahesh.works"><img align="auto" src="resource/Icons/safari.svg" alt="Portfolio" width="20" margin="5"/></a> <a href="https://mahesh.works">Mahesh.Works</a><br/>
 </details>
 
+<details>
+  <summary> FAQ </summary>
+
+- 🔭 I’m currently working on ................ <a href="https://github.com/mravariya/portfolio">Portfolio</a><br/>
+- 🌱 I’m currently learning ...................... <a href="https://github.com/DataScience">Data Science</a><br/>
+- 👯 I’m looking to collaborate on ........ <a href="https://github.com/TensorFlow">TensorFlow </a><br/>
+- 🤔 I’m looking for help with ................ <a href="https://github.com/ml5js">ml5.js </a><br/>
+- 💬 Ask me about .................................... <a href=#>Python, Machine Learning, Artificial Intelligence and Data Science </a><br/>
+- 📫 How to reach me: ............................. Discussions : <a href="https://github.com/mravariya/mravariya/discussions/1"> Click Here </a> Email : <a href = "mailto:mravariya01@gmail.com"> Click Here </a> | Twitter : <a href = "https://twitter.com/mgravariya"> MGRavariya </a> | Telegram : <a href = "https://telegram.org/@mravariya"> MRavariya </a><br/>
+- 😄 Pronouns: ........................................... He / Him ♂️ <br/>
+- ⚡ Fun fact: .............................................. I mostly listen to Carnatic Classical music when coding.<br/>
+</details>
 
 <a href="https://github.com/mravariya/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mravariya&count_private=true&show_resource/Icons=true&title_color=1D3557&text_color=1D3557&icon_color=E63946&bg_color=F1FAEE&hide_border=true&include_all_commits=true" />
