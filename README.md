@@ -13,7 +13,11 @@
 ## HELLO WORLD 👋
 
 I'm [Mahesh Ravariya](https://www.github.com/mravariya) & I am MERN Stack developer who is currently learning Data Science and helping others to learn MERN stack.
-I have been learning and teaching ```Computer Science``` from last 2+ years.  I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
+I have been learning and teaching ```Computer Science``` from last 2+ years. <br />
+I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
+
+###### Contact Me : [Email](mailto:mravariya01@gmail.com) | [Discussions](https://github.com/mravariya/mravariya/discussions/1) | [Twitter](https://twitter.com/mgravariya) | [Telegram](https://telegram.org/@mravariya)
+
 
 ### VISION:
 With the support of an Open Source community, to develop and delivery digital solutions for ease of living and security.
@@ -73,7 +77,7 @@ Other                   ████████████░░░░░░�
 - 👯 I’m looking to collaborate on ........ <a href="https://github.com/TensorFlow">TensorFlow </a><br/>
 - 🤔 I’m looking for help with ................ <a href="https://github.com/ml5js">ml5.js </a><br/>
 - 💬 Ask me about .................................... <a href=#>Python, Machine Learning, Artificial Intelligence and Data Science </a><br/>
-- 📫 How to reach me: ............................. Email :<a href = "mailto:mravariya01@gmail.com">Click Here</a> | Twitter :<a href = "https://twitter.com/mgravariya">MGRavariya</a> | Telegram :<a href = "https://telegram.org/@mravariya">MRavariya</a><br/>
+- 📫 How to reach me: ............................. Discussions : <a href="https://github.com/mravariya/mravariya/discussions/1"> Click Here </a> Email : <a href = "mailto:mravariya01@gmail.com"> Click Here </a> | Twitter : <a href = "https://twitter.com/mgravariya"> MGRavariya </a> | Telegram : <a href = "https://telegram.org/@mravariya"> MRavariya </a><br/>
 - 😄 Pronouns: ........................................... He / Him ♂️ <br/>
 - ⚡ Fun fact: .............................................. I mostly listen to Carnatic Classical music when coding.<br/>
 </details>
