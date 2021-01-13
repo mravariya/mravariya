@@ -3,11 +3,11 @@
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
 ![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter%2Fmgravariya)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://in.linkedin.com/in/mahesh-ravariya)
-[![Instagram](https://img.shields.io/badge/-MRavariya-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mravariya/)](https://www.instagram.com/mravariya/)
-[![Facebook](https://img.shields.io/badge/-MRavariya-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mravariya)](https://www.facebook.com/mahesh.g.ravariya)
-[![Medium](https://img.shields.io/badge/-MRavariya-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mravariya)](https://medium.com/@mravariya)
-[![Telegram](https://img.shields.io/badge/-MRavariya-informational?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@mravariya)](https://telegram.org/@mravariya)
-[![Website](https://img.shields.io/badge/-Portfolio-important?style=flat-square&logo=Safari&logoColor=white&link=http://mahesh.work)](http://www.mahesh.work/)
+[![Instagram](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Instagram&logoColor=purple&link=https://www.instagram.com/mravariya/)](https://www.instagram.com/mravariya/)
+[![Facebook](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Facebook&logoColor=blue&link=https://www.facebook.com/mravariya)](https://www.facebook.com/mahesh.g.ravariya)
+[![Medium](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@mravariya)](https://medium.com/@mravariya)
+[![Telegram](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Telegram&logoColor=informational&link=https://telegram.org/@mravariya)](https://telegram.org/@mravariya)
+[![Website](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Safari&logoColor=black&link=http://mahesh.work)](http://www.mahesh.work/)
 ![](https://visitor-badge.glitch.me/badge?page_id=mravariya.mravariya)
 
 ## HELLO WORLD 👋
