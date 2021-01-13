@@ -1,4 +1,4 @@
-<img src="/resource/header.png" alt="Mahesh Ravariya's Cover Photo" width="1200"/>
+<img src="/resource/stocks/header.png" alt="Mahesh Ravariya's Cover Photo" width="1200"/>
 
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
 [![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https://twitter.com/mgravariya)](https://twitter.com/mgravariya)
@@ -32,7 +32,9 @@ With the support of an Open Source community, to develop and delivery digital so
 </details>
 
 ### SKILLS
+
 ```text
+
 💻 Operating System:
 
 Linux                   ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -42,6 +44,7 @@ Mac                     ░░░░░░░░░░░░░░░░░░�
 ```
 
 ```text
+
 🔥 Editors:
 
 WebStorm                █████████████████████████░░░░░░░░░░░░░░░░░░░░░░
@@ -51,7 +54,6 @@ Visual Studio Code      ██████████████████�
 ```
 
 ```text
-
 
 💬 Programming Languages: 
 
@@ -81,8 +83,23 @@ Other                   ████████████░░░░░░�
 - ⚡ Fun fact: .............................................. I mostly listen to Carnatic Classical music when coding.<br/>
 </details>
 
+<details>
+  <summary> Find me Online </summary>
+  <a href="https://dev.to/mravariya"><img align="auto" src="resource/Icons/dev.svg" alt="Find me on Dev.to" width="20" margin="5"/></a> <a href="https://dev.to/mravariya">MRavariya</a><br/>
+  <a href="https://github.com/mravariya"><img align="auto" src="resource/Icons/github.svg" alt="Find me on GitHub" width="20" margin="5"/></a> <a href="https://github.com/mravariya">MRavariya</a><br/>
+  <a href="https://facebook.com/mahesh.g.ravariya"><img align="auto" src="resource/Icons/facebook.svg" alt="Find me on Facebook" width="20" margin="5"/></a> <a href="https://facebook.com/mahesh.g.ravariya">Mahesh.G.Ravariya</a><br/>
+  <a href="mailto:mravariya01@gmail.com"><img align="auto" src="resource/Icons/gmail.svg" alt="Email Me" width="20" margin="5"/></a> <a href="mailto:mravariya01@gmail.com">MRavariya@gmail.com</a><br/>
+  <a href="https://instagram.com/mravariya"><img align="auto" src="resource/Icons/instagram.svg" alt="Find me on Instagram" width="20" margin="5"/></a> <a href="https://instagram.com/mravariya">MRavariya</a><br/>
+  <a href="https://in.linkedin.com/in/mahesh-ravariya"><img align="auto" src="resource/Icons/linkedin.svg" alt="Find me on LinkedIn" width="20" margin="5"/></a> <a href="https://in.linkedin.com/in/mahesh-ravariya">Mahesh-ravariya</a><br/>
+  <a href="https://medium.com/mravariya"><img align="auto" src="resource/Icons/medium.svg" alt="Find me on Medium.com" width="20" margin="5"/></a> <a href="https://medium.com/mravariya">MRavariya</a><br/>
+  <a href="https://telegram.com/mravariya"><img align="auto" src="resource/Icons/telegram.svg" alt="Find me on Telegram" width="20" margin="5"/></a> <a href="https://telegram.com/mravariya">MRavariya</a><br/>
+  <a href="https://twitter.com/mravariya"><img align="auto" src="resource/Icons/twitter.svg" alt="Find me on Twitter" width="20" margin="5"/></a> <a href="https://twitter.com/mravariya">MRavariya</a><br/>
+  <a href="https://mahesh.works"><img align="auto" src="resource/Icons/safari.svg" alt="Portfolio" width="20" margin="5"/></a> <a href="https://mahesh.works">Mahesh.Works</a><br/>
+</details>
+
+
 <a href="https://github.com/mravariya/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mravariya&count_private=true&show_icons=true&title_color=1D3557&text_color=1D3557&icon_color=E63946&bg_color=F1FAEE&hide_border=true&include_all_commits=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mravariya&count_private=true&show_resource/Icons=true&title_color=1D3557&text_color=1D3557&icon_color=E63946&bg_color=F1FAEE&hide_border=true&include_all_commits=true" />
 </a>
 <a href"https://github.com/mravariya/devDocs">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mravariya&langs_count=8">
@@ -94,4 +111,4 @@ Other                   ████████████░░░░░░�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mravariya&repo=devDocs" />
 </a>
 
-<img src="/resource/codeFooter.png" alt="Footer" width="1200"/>
+<img src="/resource/stocks/codeFooter.png" alt="Footer" width="1200"/>
