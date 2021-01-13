@@ -8,6 +8,7 @@
 [![Medium](https://img.shields.io/badge/-MRavariya-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mravariya)](https://medium.com/@mravariya)
 [![Telegram](https://img.shields.io/badge/-MRavariya-informational?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@mravariya)](https://telegram.org/@mravariya)
 [![Website](https://img.shields.io/badge/-Portfolio-important?style=flat-square&logo=Safari&logoColor=white&link=http://mahesh.work)](http://www.mahesh.work/)
+![](https://visitor-badge.glitch.me/badge?page_id=mravariya.mravariya)
 
 ## HELLO WORLD 👋
 
@@ -76,5 +77,13 @@ Other                   ████████████░░░░░░�
 - 😄 Pronouns: ............................................. He / Him ♂️ <br/>
 - ⚡ Fun fact: ................................................ I mostly listen to Carnatic Classical music when coding.<br/>
 </details>
+
+[![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mravariya&count_private=true&show_icons=true&title_color=1D3557&text_color=1D3557&icon_color=E63946&bg_color=F1FAEE&hide_border=true&include_all_commits=true&)](https://github.com/mravariya/github-readme-stats)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mravariya&repo=devDocs)](https://github.com/mravariya/devDocs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mravariya&langs_count=8&layout=compact)](https://github.com/mravariya/devDocs)
+
+[![Mahesh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mravariya)](https://github.com/mravariya/devDocs)
 
 <img src="/resource/codeFooter.png" alt="Footer" width="1200"/>
