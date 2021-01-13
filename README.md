@@ -13,8 +13,7 @@
 ## HELLO WORLD 👋
 
 I'm [Mahesh Ravariya](https://www.github.com/mravariya) & I am MERN Stack developer who is currently learning Data Science and helping others to learn MERN stack.
-I have been learning and teaching ```Computer Science``` from last 2+ years. <br />
-I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
+I have been learning and teaching ```Computer Science``` from last 2+ years. I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
 
 ###### Contact Me : [Email](mailto:mravariya01@gmail.com) | [Discussions](https://github.com/mravariya/mravariya/discussions/1) | [Twitter](https://twitter.com/mgravariya) | [Telegram](https://telegram.org/@mravariya)
 
@@ -23,13 +22,13 @@ I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` 
 With the support of an Open Source community, to develop and delivery digital solutions for ease of living and security.
 
 <details>
-<summary> BIO </summary>
-<b>Name</b>        : <a href="https://www.github.com/mravariya">Mahesh Ravariya</a> <br/>
-<b>Designation</b> : MERN Stack Developer
+  <summary> <b>BIO</b> </summary>
+<p><b>Name</b>       : <a href="https://www.github.com/mravariya">Mahesh Ravariya</a> <br/>
+<b>Designation</b> : MERN Stack Developer <br/>
 <b>Pronoun</b>     : He / Him <br/>
 <b>Location</b>    : Mumbai MH India <br/>
 <b>Time Zone</b>   : Asia/Kolkata <br/>
-<b>Interest<b>    : Artificial Intelligence, Machine Learning and Data Science Enthusiast
+  <b>Interest<b>    : Artificial Intelligence, Machine Learning and Data Science Enthusiast</p>
 </details>
 
 ### SKILLS
