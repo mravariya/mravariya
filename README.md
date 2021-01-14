@@ -106,7 +106,7 @@ Other                   ████████████░░░░░░�
 <a href="https://github.com/mravariya/devDocs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mravariya&repo=devDocs" />
 </a>
-<a href="https://github.com/anuraghazra/Portfolio">
+<a href="https://github.com/mravariya/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mravariya&repo=Portfolio" />
 </a>
 
